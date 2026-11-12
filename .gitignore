@@ -1,0 +1,3 @@
+# Internal review notes, not part of the website
+*.txt
+!licenses/*.txt
